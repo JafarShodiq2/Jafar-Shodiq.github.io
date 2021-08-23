@@ -1,0 +1,41 @@
+
+.navbar {
+    opacity: 1;
+    font-weight: 600;
+}
+
+
+#about {
+    padding-top: 4rem;
+}
+
+
+.bi {
+    color: red;
+}
+
+.href {
+    color: #b9d0f5;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff; 
+    text-align: center;
+}
+
+#contact {
+    padding-top: 5rem;
+}
+
+#project {
+    background-color: #e2edff;
+    padding-top: 6rem;
+}
+
+.footer {
+    background-color: #0d6efd;
+    color: black;
+    padding-right: 3rem;
+    margin-top: 3rem;
+}
